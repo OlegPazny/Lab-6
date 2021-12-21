@@ -1,0 +1,7 @@
+D:\БГТУ\ООП\ЛР 6\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+D:\БГТУ\ООП\ЛР 6\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+D:\БГТУ\ООП\ЛР 6\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+D:\БГТУ\ООП\ЛР 6\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\ЛР 6\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\ЛР 6\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+D:\БГТУ\ООП\ЛР 6\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
